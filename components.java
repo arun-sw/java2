@@ -8,7 +8,7 @@ public class components {
     Label save=new Label("save file");
     TextField text=new TextField("enter name");
     TextArea textarea=new TextArea("enter text");
-    Checkbox che=new Checkbox("male");
+    Checkbox che=new Checkbox("MALE");
     Choice country=new Choice();
     country.add("india");
         country.add("china");
