@@ -3,7 +3,7 @@ public class components {
     components(){
 
 
-    Frame frame=new Frame("Arunkumar");
+    Frame frame=new Frame("Arun");
     Button but = new Button("save");
     Label save=new Label("save file");
     TextField text=new TextField("enter name");
