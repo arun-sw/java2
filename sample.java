@@ -1,7 +1,7 @@
 import java.awt.*;
 public class sample{
   sample() {
-      Frame frame =new Frame("ARUN");
+      Frame frame =new Frame("ARUNKUMAR");
       Button but = new Button("Click Me");
 
      frame.add(but);
