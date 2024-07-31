@@ -4,7 +4,7 @@ public class components {
 
 
     Frame frame=new Frame("Arun");
-    Button but = new Button("save");
+    Button but = new Button("SAVE THE FILE");
     Label save=new Label("save file");
     TextField text=new TextField("enter name");
     TextArea textarea=new TextArea("enter text");
