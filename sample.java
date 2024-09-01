@@ -8,10 +8,8 @@ public class sample{
       frame.setVisible(true);
       frame.setSize(400, 300);
   }
-
   public static void main(String[] args) {
       new sample();
-
   }
 
 }
