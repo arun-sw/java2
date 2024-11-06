@@ -5,6 +5,7 @@ public class components {
     Button but = new Button("save");
         but.setBounds(100,150,100,20);
     Label save=new Label("save file");
+        
         save.setBounds(100,50,100,20);
         Label label=new Label(" NAME :");
         label.setBounds(50,50,40,20);
