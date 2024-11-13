@@ -1,5 +1,4 @@
 import java.awt.*;
-
 public class components {
     components(){
     Frame frame=new Frame("Arunkumar");
