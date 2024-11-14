@@ -4,8 +4,7 @@ public class components {
     Frame frame=new Frame("Arunkumar");
     Button but = new Button("save");
         but.setBounds(100,150,100,20);
-    Label save=new Label("save file");
-        
+    Label save=new Label("save file");        
         save.setBounds(100,50,100,20);
         Label label=new Label(" NAME :");
         
