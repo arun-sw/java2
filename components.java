@@ -8,6 +8,7 @@ public class components {
         
         save.setBounds(100,50,100,20);
         Label label=new Label(" NAME :");
+        
         label.setBounds(50,50,40,20);
         TextField text=new TextField("|");
         text.setBounds(100,50,75,20);
