@@ -1,6 +1,7 @@
 import java.awt.*;
 public class components {
     components(){
+        
     Frame frame=new Frame("Arunkumar");
     Button but = new Button("save");
         but.setBounds(100,150,100,20);
